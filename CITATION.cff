@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository and the associated manuscript."
+title: "Exact and Fault-Tolerant Discounted Hitting Domination on Paths and Cycles: Reproducibility Code"
+type: software
+authors:
+  - family-names: Allagan
+    given-names: Julian D.
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/aallagan/discounted-hitting-domination-paths-cycles"
