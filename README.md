@@ -1,2 +1,34 @@
-# discounted-hitting-domination-paths-cycles
-Reproducibility code for the manuscript "Exact and Fault-Tolerant Discounted Hitting Domination on Paths and Cycles."
+# Exact and Fault-Tolerant Discounted Hitting Domination on Paths and Cycles
+
+Reproducibility code accompanying the manuscript
+
+**Exact and Fault-Tolerant Discounted Hitting Domination on Paths and Cycles**
+
+by Julian D. Allagan, Kevin Pereyra, and William A. Massey.
+
+## Contents
+
+`reproduce_results.py` checks the principal finite-order formulas and
+enumeration results of the paper on small instances.
+
+The script verifies:
+
+- exact discounted hitting domination numbers on paths and cycles;
+- enumeration formulas for minimum placements;
+- exact fault-tolerant values on paths and cycles;
+- robust cycle enumeration;
+- the path source-capacity formula; and
+- the fault-tolerant complete-graph formula.
+
+The finite graph computations use exact rational arithmetic where
+applicable.
+
+## Requirements
+
+- Python 3
+- NetworkX 3.6.1
+
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
