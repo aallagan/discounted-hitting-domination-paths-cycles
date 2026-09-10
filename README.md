@@ -27,7 +27,7 @@ applicable.
 
 - Python 3
 - NetworkX 3.6.1
-
+Tested with Python 3.13 and NetworkX 3.6.1.
 Install dependencies with:
 
 ```bash
