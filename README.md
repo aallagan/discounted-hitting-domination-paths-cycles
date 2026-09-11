@@ -1,5 +1,5 @@
 # Exact and Fault-Tolerant Discounted Hitting Domination on Paths and Cycles
-
+[![Reproducibility checks](https://github.com/aallagan/discounted-hitting-domination-paths-cycles/actions/workflows/reproducibility.yml/badge.svg)](https://github.com/aallagan/discounted-hitting-domination-paths-cycles/actions/workflows/reproducibility.yml)
 Reproducibility code accompanying the manuscript
 
 **Exact and Fault-Tolerant Discounted Hitting Domination on Paths and Cycles**
