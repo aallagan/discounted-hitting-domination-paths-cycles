@@ -20,8 +20,7 @@ The script verifies:
 - the path source-capacity formula; and
 - the fault-tolerant complete-graph formula.
 
-The finite graph computations use exact rational arithmetic where
-applicable.
+The verification computations use exact rational arithmetic where applicable.
 
 ## Requirements
 
